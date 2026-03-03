@@ -1,0 +1,9 @@
+.venv*/
+.vscode/
+__pycache__/
+*.pyc
+.env
+*.csv
+*.txt
+.DS_Store
+outcomes/
